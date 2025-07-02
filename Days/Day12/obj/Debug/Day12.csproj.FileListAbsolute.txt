@@ -1,0 +1,14 @@
+C:\Users\Archibolt\source\repos\Archibolt-advent-of-code-2024\Day01-PART1\Day12\bin\Debug\Day12.exe.config
+C:\Users\Archibolt\source\repos\Archibolt-advent-of-code-2024\Day01-PART1\Day12\bin\Debug\Day12.exe
+C:\Users\Archibolt\source\repos\Archibolt-advent-of-code-2024\Day01-PART1\Day12\bin\Debug\Day12.pdb
+C:\Users\Archibolt\source\repos\Archibolt-advent-of-code-2024\Day01-PART1\Day12\obj\Debug\Day12.csproj.AssemblyReference.cache
+C:\Users\Archibolt\source\repos\Archibolt-advent-of-code-2024\Day01-PART1\Day12\obj\Debug\Day12.csproj.CoreCompileInputs.cache
+C:\Users\Archibolt\source\repos\Archibolt-advent-of-code-2024\Day01-PART1\Day12\obj\Debug\Day12.exe
+C:\Users\Archibolt\source\repos\Archibolt-advent-of-code-2024\Day01-PART1\Day12\obj\Debug\Day12.pdb
+C:\Users\Archibolt\source\repos\Archibolt-advent-of-code-2024\Days\Day12\bin\Debug\Day12.exe.config
+C:\Users\Archibolt\source\repos\Archibolt-advent-of-code-2024\Days\Day12\bin\Debug\Day12.exe
+C:\Users\Archibolt\source\repos\Archibolt-advent-of-code-2024\Days\Day12\bin\Debug\Day12.pdb
+C:\Users\Archibolt\source\repos\Archibolt-advent-of-code-2024\Days\Day12\obj\Debug\Day12.csproj.AssemblyReference.cache
+C:\Users\Archibolt\source\repos\Archibolt-advent-of-code-2024\Days\Day12\obj\Debug\Day12.csproj.CoreCompileInputs.cache
+C:\Users\Archibolt\source\repos\Archibolt-advent-of-code-2024\Days\Day12\obj\Debug\Day12.exe
+C:\Users\Archibolt\source\repos\Archibolt-advent-of-code-2024\Days\Day12\obj\Debug\Day12.pdb

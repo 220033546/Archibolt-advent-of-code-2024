@@ -1,0 +1,7 @@
+C:\Users\Archibolt\source\repos\Archibolt-advent-of-code-2024\Days\Day18\bin\Debug\Day18.exe.config
+C:\Users\Archibolt\source\repos\Archibolt-advent-of-code-2024\Days\Day18\bin\Debug\Day18.exe
+C:\Users\Archibolt\source\repos\Archibolt-advent-of-code-2024\Days\Day18\bin\Debug\Day18.pdb
+C:\Users\Archibolt\source\repos\Archibolt-advent-of-code-2024\Days\Day18\obj\Debug\Day18.csproj.AssemblyReference.cache
+C:\Users\Archibolt\source\repos\Archibolt-advent-of-code-2024\Days\Day18\obj\Debug\Day18.csproj.CoreCompileInputs.cache
+C:\Users\Archibolt\source\repos\Archibolt-advent-of-code-2024\Days\Day18\obj\Debug\Day18.exe
+C:\Users\Archibolt\source\repos\Archibolt-advent-of-code-2024\Days\Day18\obj\Debug\Day18.pdb
